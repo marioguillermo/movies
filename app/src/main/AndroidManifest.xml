@@ -14,14 +14,14 @@
         <activity android:name=".ui.java.FavoritesActivity" />
         <activity android:name=".ui.java.DetailActivity" />
         <activity android:name=".ui.kotlin.MainActivityKt">
+
+        </activity>
+        <activity android:name=".ui.java.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity android:name=".ui.java.MainActivity">
-
         </activity>
         <activity android:name=".ui.kotlin.DetailActivity" />
         <activity android:name=".ui.kotlin.FavoritesActivity" />
