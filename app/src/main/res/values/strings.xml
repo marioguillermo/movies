@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="label_director">Director: %s</string>
+    <string name="label_add_to_favorites">Agregar a favoritos</string>
+    <string name="label_remove_from_favorites">Eliminar de favoritos</string>
+    <string name="label_favorites">Favoritos</string>
+
+</resources>
